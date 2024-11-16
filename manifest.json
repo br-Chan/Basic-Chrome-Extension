@@ -3,10 +3,7 @@
     "name": "Warning: do not open",
     "description": "Base Level Extension",
     "version": "1.0",
-    "action": {
-      "default_popup": "hello.html",
-      "default_icon": "StickBugged.png"
-    },
+
     "icons": {
       "16": "images/icon-16.png",
       "32": "images/icon-32.png",
